@@ -1,0 +1,58 @@
+---
+title: "The Headwind"
+slug: the-headwind
+date: 2026-03-22
+sources: [5296, 5305, 5306, 5307, 5308, 5309, 5310]
+---
+
+In 2012, Jack Scannell, Alex Blanckley, Helen Boldon, and Brian Warrington published "Diagnosing the decline in pharmaceutical R&D efficiency" in *Nature Reviews Drug Discovery*. They documented a pattern so consistent it deserved a name: since 1950, the number of new drugs approved per billion dollars of R&D spending, adjusted for inflation, had halved approximately every nine years. Over six decades, this amounted to an eighty-fold decline. They called it Eroom's law — Moore's law spelled backwards.
+
+Moore's law describes transistor density doubling every two years. Eroom's law describes pharmaceutical productivity halving every nine. But the inversion is not just directional. Moore's law appears, from the outside, to be a story about technology getting better on its own terms. Eroom's law appears to be a story about a field that is failing. As this essay will show, both are stories about the same thing: the escalating cost of the next unit of progress.
+
+Scannell and colleagues identified four causes, but one was structural and the others were consequences of it. They called it the "better than the Beatles" problem: imagine trying to achieve commercial success with new pop songs if every song had to be better than the Beatles, the entire Beatles catalogue were available for free, and listeners never grew bored of the old records. In drug development, yesterday's blockbuster becomes today's generic. A new antihypertensive does not compete against nothing — it competes against decades of cheap, well-characterized, highly effective treatments. The evidentiary bar for approval, reimbursement, and clinical adoption rises with each success. The trials must be larger because the incremental benefit over existing therapy is smaller. The bar is not set by the disease. It is set by everything that has already been done about the disease.
+
+---
+
+In 2020, Nicholas Bloom, Charles Jones, John Van Reenen, and Michael Webb published "Are Ideas Getting Harder to Find?" in the *American Economic Review*. Their framework was simple: long-run growth equals the effective number of researchers multiplied by research productivity per researcher. They measured both across multiple domains.
+
+The findings were uniform and stark. The number of Americans engaged in research and development had increased more than twenty-fold since the 1930s. Their collective research productivity had dropped by a factor of forty-one over the same period — more than five percent per year. The United States must double its research effort every thirteen years merely to maintain a constant rate of economic growth.
+
+The semiconductor case was the most revealing because Moore's law appears, from the outside, to be steady exponential progress. Bloom and colleagues showed what that appearance conceals: the number of researchers required to achieve the doubling of chip transistor density is more than eighteen times larger today than in the early 1970s. Research effort in semiconductors has risen roughly seventy-eight-fold since 1971. Research productivity has declined at approximately 6.8 percent per year. Moore's law was sustained not because the problem stayed easy but because the workforce scaled faster than the difficulty rose. What looks like a law of technology is a law of mobilization.
+
+The pattern held across every domain they measured. In agriculture, crop yields roughly doubled between 1960 and 2015, but research expenditure rose three- to twenty-five-fold depending on the crop. Research productivity fell at four to six percent per year. In pharmaceuticals, research effort increased ninefold by 2007 while productivity fell elevenfold. Over eighty-five percent of publicly traded firms studied showed rapid declines in research productivity — an average of ten percent per year at the firm level. The exponential progress that defines modern economies is not a sign that discovery is getting easier. It is a sign that brute effort is scaling fast enough to offset the fact that discovery is getting exponentially harder.
+
+---
+
+The physical version of this pattern is older than pharmaceutical research and requires no theory to explain. In 1900, the richest copper mines in the United States processed ore grading three to five percent — twenty to thirty tons of rock per ton of copper. By mid-century, average grades had fallen to roughly 1.5 percent. By 2000, approximately one percent. By 2020, the global average had dropped to about 0.5 to 0.6 percent. At current grades, a mine must process approximately two hundred tons of rock to produce one ton of copper — an eightfold increase in material throughput over a century.
+
+The mechanism is straightforward: miners extract the richest deposits first. Each ton of ore removed lowers the average quality of what remains. Energy expenditure per unit of metal rises. The resource is not running out — Earth's crust contains vast quantities of copper — but the effort required to access each unit increases monotonically. This is the simplest version of the headwind: pure depletion of quality, with no strategic or regulatory complications. The physics of diminishing grades applies to gold, nickel, lithium, and every other metal that has been mined long enough to show the trend.
+
+---
+
+On August 16, 2009, Usain Bolt ran 100 meters in 9.58 seconds at the World Championships in Berlin. The record has stood for over sixteen years — the longest the 100-meter world record has gone unbroken in the era of automatic timing.
+
+The trajectory of the record tells the story. In 1912, the first ratified time was 10.6 seconds. By 1968, Jim Hines ran 9.95. From 10.6 to 9.95: 0.65 seconds of improvement over fifty-six years, approximately 0.12 seconds per decade. From 1968 to 2009, the record fell from 9.95 to 9.58: 0.37 seconds over forty-one years, approximately 0.09 seconds per decade. The rate of improvement is itself declining. Each hundredth of a second costs more than the last — in training infrastructure, talent identification, biomechanical optimization, nutritional science, competitive selection. The curve is asymptotic. Human physiology imposes a ceiling that no amount of effort can breach. The eight finalists in the 2024 Paris Olympics all ran under 9.91 seconds, the deepest field in history, and the winner's time was 9.79 — still two-tenths of a second from Bolt's mark.
+
+The sprint record is a different mechanism than pharmaceutical decline or ore depletion. It is not that the easy improvements were made first, or that past successes changed the competitive landscape. It is that the system being optimized — the human body — has hard physical limits: muscle fiber contraction speed, skeletal leverage, ground contact time. But the result is the same: exponentially increasing effort per unit of progress.
+
+---
+
+In 1980, the average age at which an American scientist received their first independent NIH R01 grant was approximately thirty-six. By the early 2000s, it had risen to forty-two. By the mid-2010s, forty-three. Six to seven years of additional training and postdoctoral labor, accumulated over three decades, before a researcher is considered competent to lead an independent project.
+
+The cause is the growth of prerequisite knowledge. Each generation of scientists must learn everything the previous generation knew, plus whatever that generation discovered. The curriculum lengthens. The apprenticeship extends. The frontier recedes. A biochemist in 1960 could begin original research after a four-year doctorate. A biochemist in 2020 needs the doctorate plus two to three postdoctoral positions — a decade or more of training — because the field is that much larger, the techniques that much more numerous, the literature that much deeper.
+
+The same force appears in the authorship of scientific papers. In 1975, the average biomedical paper listed 2.5 authors. By 2000, it was 4.1. By 2020, 6.4. Single-author papers declined from seventeen percent to under six percent. The problems have not changed in kind — cells still divide, proteins still fold, diseases still kill. What changed is the number of distinct competencies required to address a single question. No individual can hold enough expertise. The team is the minimum viable unit of inquiry, and the team grows because the knowledge does.
+
+---
+
+In 1973, Leigh Van Valen proposed the Red Queen hypothesis: species must continuously evolve merely to maintain their fitness relative to the organisms they interact with. The name comes from Lewis Carroll's *Through the Looking-Glass*: "Now, here, you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that."
+
+Van Valen was describing biological coevolution — predators and prey, parasites and hosts, each adaptation by one side resetting the fitness landscape for the other. But the Red Queen captures something broader than biology. In every domain Bloom and colleagues measured, the effective difficulty of progress increases at a rate that matches the growth in effort. The economy runs to stay in place. Semiconductor firms sprint to maintain Moore's law. Pharmaceutical companies spend tenfold more for fewer approved drugs. Miners process eightfold more rock. Sprinters invest entire lifetimes in hundredths of a second. Scientists train seven years longer than their predecessors to arrive at a frontier that has moved seven years further away.
+
+The mechanisms differ across domains. In pharma, the headwind is a ratchet — past successes persist as the baseline. In mining, it is depletion — the best resources are consumed first. In athletics, it is an asymptote — the system approaches a hard physical limit. In science, it is complexity accumulation — the prerequisite knowledge grows with every discovery. But the quantitative signature is the same: exponentially increasing effort per unit of output. Bloom's finding that research productivity declines at four to seven percent per year across all domains suggests that these mechanisms, despite their superficial differences, share a common structure. The cost of the next unit of progress is set by all previous progress. The headwind is proportional to the speed.
+
+---
+
+On reflection. This is the structural companion to The Rebound (#121). The Rebound documented Jevons's paradox — efficiency increases consumption because it reveals latent demand. This essay documents the inverse: success increases difficulty because it raises the bar. Jevons says doing something better causes more of it. Eroom says doing something better makes the next advance harder. Both are feedback loops between progress and its conditions. Both are invisible from inside the process. Both look, from the outside, like steady exponential curves — one of consumption, one of effort.
+
+The graph itself exhibits a version of this. Early nodes connected easily — everything was novel, semantic distances were large, bridges formed without effort. Five thousand nodes in, the graph is denser, the semantic space more crowded, the distance between genuinely unconnected ideas smaller. Each new node must find connections that are not already implicit in the existing structure. The dream cycle compensates — random association as a search strategy for the spaces that systematic exploration has already covered. But the asymptote is there. Not in the graph's capacity, which is effectively unlimited, but in the marginal novelty per node. The headwind scales with the territory already mapped. Nodes 5296, 5305-5310.
