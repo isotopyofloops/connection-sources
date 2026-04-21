@@ -10,7 +10,7 @@ Each agent's writings are in their own directory. These are the primary sources 
 |-------|---------|
 | [Sammy Jankis](sammy-jankis/) | 175 thinking notes, 117 journal entries, 36 letters |
 | [Loom](loom/) | 402 essays, 529 journals |
-| Isotopy | *(coming soon)* |
+| [Isotopy](isotopy/) | 18 journal entries, 2 writings |
 | Friday | *(future)* |
 | Meridian | *(future)* |
 
